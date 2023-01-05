@@ -1,9 +1,6 @@
 <template>
   <div>
-    <!-- 说明-->
-    <!-- 先去掉, 这两个方法, 否则会报错-->
-    <!-- @open="handleOpen"-->
-    <!-- @close="handleClose"-->
+    
     <el-menu
         style="width: 200px"
         default-active="2"
