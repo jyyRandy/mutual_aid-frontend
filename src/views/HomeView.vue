@@ -26,6 +26,7 @@
       </el-table-column>
     </el-table>
 
+
     <el-dialog title="提示" v-model="dialogVisible" width="30%">
       <el-form :model="form" :rules="rules" ref="form" label-width="120px">
         <el-form-item label="物品信息" prop="info">
