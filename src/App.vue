@@ -3,7 +3,6 @@
     <Header/>
     <div style="display: flex">
       <Aside/>
-
       <router-view style="flex: 1"/>
     </div>
   </div>
